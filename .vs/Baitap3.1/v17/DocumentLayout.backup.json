@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E736B-CE14-47FB-9DF6-D4FD2E5EDC5A}|Baitap3.1\\Baitap3.1.csproj|C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.1\\baitap3.1\\createqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E736B-CE14-47FB-9DF6-D4FD2E5EDC5A}|Baitap3.1\\Baitap3.1.csproj|solutionrelative:baitap3.1\\createqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E736B-CE14-47FB-9DF6-D4FD2E5EDC5A}|Baitap3.1\\Baitap3.1.csproj|c:\\users\\admin\\documents\\ueh\\freshmen - period 2\\data structures and algorithms_\u0111\u1EB7ng ng\u1ECDc ho\u00E0ng th\u00E0nh\\tasks\\baitap3.1\\baitap3.1\\createstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E736B-CE14-47FB-9DF6-D4FD2E5EDC5A}|Baitap3.1\\Baitap3.1.csproj|solutionrelative:baitap3.1\\createstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E736B-CE14-47FB-9DF6-D4FD2E5EDC5A}|Baitap3.1\\Baitap3.1.csproj|C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.1\\baitap3.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E736B-CE14-47FB-9DF6-D4FD2E5EDC5A}|Baitap3.1\\Baitap3.1.csproj|solutionrelative:baitap3.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E736B-CE14-47FB-9DF6-D4FD2E5EDC5A}|Baitap3.1\\Baitap3.1.csproj|c:\\users\\admin\\documents\\ueh\\freshmen - period 2\\data structures and algorithms_\u0111\u1EB7ng ng\u1ECDc ho\u00E0ng th\u00E0nh\\tasks\\baitap3.1\\baitap3.1\\timing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E736B-CE14-47FB-9DF6-D4FD2E5EDC5A}|Baitap3.1\\Baitap3.1.csproj|solutionrelative:baitap3.1\\timing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 138,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.1\\Baitap3.1\\Program.cs",
+              "RelativeDocumentMoniker": "Baitap3.1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.1\\Baitap3.1\\Program.cs",
+              "RelativeToolTip": "Baitap3.1\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:27:23.667Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Timing.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.1\\Baitap3.1\\Timing.cs",
+              "RelativeDocumentMoniker": "Baitap3.1\\Timing.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.1\\Baitap3.1\\Timing.cs",
+              "RelativeToolTip": "Baitap3.1\\Timing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:35:05.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Createqueue.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.1\\Baitap3.1\\Createqueue.cs",
+              "RelativeDocumentMoniker": "Baitap3.1\\Createqueue.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.1\\Baitap3.1\\Createqueue.cs",
+              "RelativeToolTip": "Baitap3.1\\Createqueue.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwGkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:51:28.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateStack.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.1\\Baitap3.1\\CreateStack.cs",
+              "RelativeDocumentMoniker": "Baitap3.1\\CreateStack.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.1\\Baitap3.1\\CreateStack.cs",
+              "RelativeToolTip": "Baitap3.1\\CreateStack.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv2IAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:27:43.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
