@@ -24,7 +24,7 @@ namespace Baitap3._1
             UserProcessorTime.
             Subtract(startingtime);
         }
-        public void startTime()
+        public void StartTime()
         {
             GC.Collect();
             GC.WaitForPendingFinalizers();
